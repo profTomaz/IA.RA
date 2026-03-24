@@ -22,8 +22,8 @@ Unlike traditional safety apps that require unlocking the phone, IA.RA operates 
 
 ## 👩‍💻 Team
 A project developed under the **Lotus Initiative**, focused on female leadership in technology.
-- **Advisor:** [Tomaz Oliveira/GitHub]
-- **Developer:** [Evelin Aquiles/GitHub]
+- **Advisor:** [Tomaz Oliveira/profTomaz]
+- **Developer:** [Evelin Aquiles/myevvy]
 
 ---
 *This project is aligned with UN SDGs 5 (Gender Equality) and 11 (Sustainable Cities and Communities).*
