@@ -1,0 +1,29 @@
+{
+  "name": "vai-chover-hj",
+  "version": "1.0.0",
+  "description": "Aplicativo de emergência com reconhecimento de voz",
+  "main": "app.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-native": "0.73.0",
+    "expo": "^50.0.0",
+    "expo-av": "^13.0.0",
+    "expo-location": "^16.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.0"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "emergency"
+  ],
+  "author": "profTomaz",
+  "license": "ISC"
+}

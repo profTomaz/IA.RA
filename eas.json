@@ -1,0 +1,21 @@
+{
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "preview2": {
+      "android": {
+        "buildType": "aab"
+      }
+    },
+    "preview3": {
+      "developmentClient": true
+    },
+    "production": {}
+  },
+  "submit": {
+    "production": {}
+  }
+}

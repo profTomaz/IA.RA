@@ -1,0 +1,6 @@
+Plaintext
+fastapi
+uvicorn
+python-multipart
+speechrecognition
+pydub
