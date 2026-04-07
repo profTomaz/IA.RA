@@ -3,7 +3,7 @@ import { View, Text, StyleSheet, TouchableOpacity, Vibration, Alert, TextInput, 
 import { Audio } from 'expo-av';
 import * as Location from 'expo-location';
 
-const API_URL = "https://SEU_LINK_CODESPACE.github.dev/processar_voz";
+const API_URL = "https://blissful-reverence-production-4e1a.up.railway.app/";
 
 export default function App() {
   const [view, setView] = useState('weather'); // 'weather', 'password', 'settings'
